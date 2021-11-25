@@ -1,0 +1,8 @@
+name: UltimateTag
+version: 1.0
+author: _FuriousPotato_
+main: me._furiouspotato_.ultimatetag.Main
+api-version: 1.13
+commands:
+   tag:
+      description: Main command to control the game.
